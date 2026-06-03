@@ -1,2 +1,2 @@
 # distrolinux
-Minha distro de llinux para a monitoria :)
+Minha distro de linux para a monitoria :)
