@@ -1,6 +1,25 @@
-sudo apt update && sudo apt install -y build-essential libncurses-dev bison flex libssl-dev libelf-dev bc cpio wget xorriso grub-pc-bin grub-efi-amd64-bin grub-common mtools squashfs-tools qemu-system-x86 tar xz-utils
-
-wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.60.tar.xz
-
-sudo tar -xvf linux-6.1.60.tar.xz
-
+sudo apt update: verifica a lista de programas disponíveis 
+sudo apt install -y: executa como administrador, instala e responde sim para as perguntas 
+build-essential: instala o compilador de c e bibliotecas básicas 
+libncurses-dev: tela azul para configurar o kernel 
+bison flex: ferramentas para 
+libssl-dev: bibliotecas do OpenSSL
+libelf-dev: necessário para compilar alguns módulos 
+bc: sistema de build do kernel
+cpio: manipulação de arquivos 
+wget: permite instalar aplicativos da internet 
+xorriso: cria imagens do ISO
+grub-pc-bin: arquivos para a BIOS
+grub-efi-amd64-bin: arquivos do GRUB para UEFI
+grub-common: arquivos do GRUB
+mtools: ferramentas FAT
+squashfs-tools: criação de sistemas de arquivos compactados 
+qemu-system-x86: máquina virtual 
+tar: empacota e extrai arquivo 
+xz-utils: necessário para abrir arquivos .tar.xz
+wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.60.tar.xz: acessa o site oficial do kernel e baixa o arquivo 
+linux-6.1.60.tar.xz: baixa o arquivo 
+sudo tar -xvf linux-6.1.60.tar.xz: extrair o código fonte 
+-x: extrair 
+-v: mostra os arquivos sendo extraídos
+-f: indica qual arquivo será usado 
