@@ -1,5 +1,5 @@
-- propósito/público-alvo: estudantes, iniciantes, pessoas que querem aprender Linux, estudantes de ti  
-⁠- tamanho: uma distro mais leve
+- propósito/público-alvo: estudantes, iniciantes, pessoas que querem aprender Linux, estudantes de ti
+- tamanho: uma distro mais leve
 - ferramentas: Firefox, LibreOfficer, VS code, Git, editor de texto, monitor do sistema, captura de tela, calculadora, visualizador de PDF, terminal
 - visual da sua distro: roxo escuro, vermelho escuro, preto, cinza, branco... A insterface sera inspirada em gatinhos, estilo gotico, monster high e estilo vampiresco.
 O terminal pode ser inspirada em um livro de grimorio, desde que nao atraplhe a visualização. Os ícones podem ser personalizados. Interface amigável.
