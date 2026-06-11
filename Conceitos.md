@@ -3,7 +3,7 @@
 Ele é resposnsavél por gerenciar a memória (RAM), o processamento da CPU, gerenciar processos, controlar hardware, sistema de arquivos, rede e drivers.
 **Bios:** é o "software" fundamental gravado em um chip da placa-mãe. Ela é a primeira coisa que é executada quando você liga o computador,
 preparando o hardware para que o sistema operacional possa funcionar.
-Boot: é o processo de inicialização do computador. Ele testa os componentes fisicos (Memoria RAM, disco rigido, processador, etc) e em seguida localiza o sistema operacinal no 
+**Boot:** é o processo de inicialização do computador. Ele testa os componentes fisicos (Memoria RAM, disco rigido, processador, etc) e em seguida localiza o sistema operacinal no 
 disco de armazenamento do computador.
 **Firmware:** é um tipo de software de baixo nível gravado diretamente no hardware de um dispositivo eletrônico. Ele contem as instruções
 básicas necessárias para que o equipamento inicialize, reconheça seus próprios componentes e funcione corretamente. Exemplos: BIOS.
