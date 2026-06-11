@@ -1,4 +1,4 @@
-##Conceitos Importantes##
+### Conceitos Importantes
 - Kernel: O kernel é o nucleo central do sistema operacional. Ele atua como uma ponte fundamental entre o hardware do computador e os softwares. 
 Ele é resposnsavél por gerenciar a memória (RAM), o processamento da CPU, gerenciar processos, controlar hardware, sistema de arquivos, rede e drivers.
 - Bios: é o "software" fundamental gravado em um chip da placa-mãe. Ela é a primeira coisa que é executada quando você liga o computador,
