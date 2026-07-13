@@ -1,3 +1,4 @@
+- Distribuição para aprender linux e para fins academicos
 - propósito/público-alvo: estudantes, iniciantes, pessoas que querem aprender Linux, estudantes de ti
 - tamanho: uma distro mais leve
 - ferramentas: Firefox, LibreOfficer, VS code, Git, editor de texto, monitor do sistema, captura de tela, calculadora, visualizador de PDF, terminal, nano, vim
