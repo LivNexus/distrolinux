@@ -43,18 +43,7 @@ Procure as opções abaixo utilizando a ferramenta de busca do `menuconfig`.
 Caso alguma opção não esteja como Y (YES) na sua configuração, altere manualmente utilizando o `menuconfig` ou o VIM.
 
 
-|Opção|Caminho no menuconfig|Porquê| #alterar
-|-----|---------------------|------|
-|Suporte a ext4|File systems > Ext4|Nosso rootfs será ext4|
-|Suporte a SquashFS|File systems > Miscellaneous > SquashFS|Para o Live CD ler o filesystem compactado|
-|OverlayFS|File systems > Overlay filesystem|Para a camada de escrita do Live CD|
-|Suporte a ISO 9660|File systems > ISO 9660|Para o GRUB ler o CD|
-|Suporte a FAT/VFAT|File systems > DOS/FAT/VFAT|Para a partição EFI|
-|Suporte a tmpfs|File systems > Pseudo filesystems > tmpfs|Para o OverlayFS na RAM|
-|Suporte a disco SATA/AHCI|Device Drivers > Serial ATA/ATAPI > AHCI|Para ler discos SATA|
-|Suporte a NVMe|Device Drivers > NVM Express block device|Para ler SSDs modernos|
-|Suporte a USB Storage|Device Drivers > USB > USB Mass Storage|Para ler pendrives|
-|Suporte a loop device|Device Drivers > Block devices > Loopback|Para montar imagens|
+#escrever as opções
 
 Agora, gere uma configuração que garanta que os módulos necessários estejam carregados no sistema atual. O `localmodconfig` mantém apenas os drivers em uso e remove opções desnecessárias.
 
