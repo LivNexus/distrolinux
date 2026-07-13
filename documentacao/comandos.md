@@ -1,5 +1,3 @@
-# Documentação
-
 ## Passo a passo da instalação:
 
 Primeiro, instale alguns pacotes importantes importantes. Esses pacotes forncem as ferramentas necessárias para complilar o código, gerar imagens, instalar e configurar o bootloaader e testar a distribuição em máquinas virtuais.
