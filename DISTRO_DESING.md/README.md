@@ -1,10 +1,11 @@
-- Distribuição para aprender linux e para fins academicos
-- propósito/público-alvo: estudantes, iniciantes, pessoas que querem aprender Linux, estudantes de ti
-- tamanho: uma distro mais leve
-- ferramentas: Git, monitor do sistema, captura de tela, calculadora, visualizador de PDF, terminal, nano, vim e neovim
-- visual da sua distro: roxo escuro, vermelho escuro, preto, cinza, branco... A insterface sera inspirada em gatinhos, estilo gotico, monster high e estilo vampiresco.
-O terminal pode ser inspirada em um livro de grimorio, desde que nao atraplhe a visualização. Os ícones podem ser personalizados. Interface amigável.
-- segurança: login com senha, firewall, atualizações automáticas, avisos simples em linguagem amigável
-- !Documentações dentro da distribuição que expliquem sobre: Phishing, Senhas, Golpes, Downloads suspeitos, Engenharia social, comandos básicos, boas praticas, o básico do linux
-- Shell padrão: bash
+**Proposito da distribuição:** aprender linux e fins academicos
+**Público-alvo:** estudantes, iniciantes e pessoas que querem aprender Linux
+**Tamanho:** uma distro mais leve
+**Ferramentas:** Git, monitor do sistema, captura de tela, calculadora, visualizador de PDF, terminal, nano, neovim, wget...
+**Visual da sua distro:** roxo escuro, preto, cinza, branco... A insterface sera inspirada em gatinhos e/ou estilo vampiresco.
+Os ícones podem ser personalizados. Interface amigável.
+**Segurança:** login com senha, firewall, documentos que explicam sobre segurança
+**Documentações:** dentro da distribuição que expliquem sobre: Phishing, Senhas, Golpes, Downloads suspeitos, Engenharia social, comandos básicos, boas praticas, o básico do linux
+**Shell padrão:** bash
+
 
